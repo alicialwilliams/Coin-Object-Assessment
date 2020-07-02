@@ -45,7 +45,7 @@ let coin = {
 };
 
 
-        function display20flips() {
+        function display20flips() {// with Zac's help
             for (let index = 1; index <= 20; index += 1 ) {
                 coin.toString("")
             }
